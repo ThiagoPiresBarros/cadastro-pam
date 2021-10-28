@@ -33,6 +33,6 @@
   },
   "dependencies": {
     "cordova": "^10.0.0",
-    "firebase": "^9.1.1"
+    "firebase": "^9.1.3"
   }
 }
